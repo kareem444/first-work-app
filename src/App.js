@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="">
-      {/* <div className="text-center mt-3">
+      <div className="text-center mt-3">
         <h1>kareem</h1>
         <Searchbar setTheInputVal={setTheInputVal} />
       </div>
@@ -43,10 +43,7 @@ function App() {
             ))
           )}
         </div>
-      </ScollComponent> */}
-      <div>
-        kareem
-      </div>
+      </ScollComponent>
     </div>
   );
 }
